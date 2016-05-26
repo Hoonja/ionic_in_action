@@ -1,0 +1,33 @@
+부록 A
+추가 리소스들
+
+부록에는 추가 자료에 대해 정리한 목록이 들어있다. 각 장에서 공유된 자료도 여기에 참고하라고 모아놨다.
+
+A.1 아이오닉
+  * http://ionicframework.com — 도큐먼트, 포험, 블로그와 기타 자료가 있는 아이오닉 공식 웹사이트.
+  * https://apps.ionic.io/ — 앱을 관리할 수 있는 아이오닉 뷰, 아이오닉 크리에이터, 기타 다른 아이오닉 플랫폼 서비스가 있는 아이오닉 플랫폼.
+  * http://ionicons.com — 아이오닉 아이콘으로 사용할 수 있는 모든 아이콘을 미리볼 수 있음.
+  * https://github.com/driftyco/ionic — 아이오닉 개발을 팔로우하기 위한 GitHub 프로젝트.
+  * https://github.com/ionic-in-action — 이 책에서 만든 예제 프로젝트.
+  * http://codepen.io/ionic/public-list/ — 아이오닉 팀이 제작한 각 기능별 유용한 예제 목록.
+  * http://mng.bz/A24v — 데모, 튜토리얼, 팀 에피소드를 담은 아이오닉의 유튜브 채널.
+
+A.2 AngularJS
+  * https://angularjs.org — AngularJS 1에 관한 공식 도큐먼트 사이트. 시작하는 사람들을 위한 가이드, 비디오, 메일링 리스트 등등이 있다.
+  * http://manning.com/bford — AngularJS로 시작하고 기본기를 배울수 있는 AngularJS in Action의 사이트.
+  * http://manning.com/aden — AngularJS가 어떻게 동작하는지 깊이 있게 설명한 AngularJS in Depth의 사이트. 아이오닉 앱을 개선하는데 매우 유용한 정보가 있다.
+  * http://angular.github.io/protractor — AngularJS의 종단간 테스트는 Protractor로 훨씬 쉬워진다.
+  * http://karma-runner.github.io — 카르마는 AngularJS 팀이 만든 유명한 단위 테스트 실행기이다.
+  * http://jasmine.github.io — 자스민은 이책과 AngularJS 팀에서 사용하는 테스팅 라이브러리이다.
+
+A.3 코르도바
+  * http://cordova.apache.org — 도큐먼트, 뉴스 등이 있는 코르도바 공식 웹사이트.
+  * http://plugins.cordova.io/npm/index.html — 공식 플러그인으로 등록된 코르도바 플러그인을 찾을 수 있다.
+  * http://ngcordova.com — 지원되는 코르도바 플러그인의 사용법을 설명한 ngCordova의 공식 웹사이트.
+  * http://manning.com/camden/ — Cordova의 특징을 깊이있게 설명한, 레이몬드 캠든(Raymond Camden)의 훌륭한 저서 Apache Cordova in Action의 웹사이트.
+
+A.4 블로그
+  * http://ionicinaction.com — 이 책을 위한 블로그.
+  * https://blog.nraboy.com — 닉 라보이(Nic Raboy)는 아이오닉으로 모바일 앱을 제작하는 주제에 관해 훌륭한 포스트를 많이 올리고 있다.
+  * http://www.raymondcamden.com — 모바일앱 제작, 코르도바, 아이오닉을 다루고 있는 레이몬드 캠든(Raymond Camden)의 블로그.
+  * http://mobilewebweekly.co — 모바일 개발에 관한 훌륭한 포스트를 엄선해서 매주 e메일 뉴스레터로 발송해 준다.
